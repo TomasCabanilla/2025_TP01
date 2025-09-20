@@ -1,1 +1,2 @@
 Funcionalidad inicial
+Agrego más detalles a la funcionalidad
