@@ -1,1 +1,1 @@
-Este es un texto con ERROR
+Este es el texto corregido
